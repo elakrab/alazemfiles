@@ -1,0 +1,271 @@
+@media only screen and (max-width:990px) {
+
+
+    li.tit {
+        display: none !important;
+    }
+
+    .new-blogs ul li a:nth-child(1)
+    {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 18px;
+    }
+
+    .new-blogs ul li a:nth-child(2)
+    {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 18px;
+    }
+    .new-blogs ul li a:nth-child(3)
+    {
+        width: 100%;
+        float:none;
+        text-align: center;
+        margin-bottom: 18px;
+    }
+
+.vedios iframe {
+    width: 100%;
+    height: 200px;
+}
+
+.vedio-section iframe {
+    width: 100%;
+    height: 200px;
+}
+
+
+}
+
+@media only screen and (max-width:767px) {
+
+  .header .bars
+  {
+    margin-top: 35px;
+  }
+  .header .logo img
+  {
+    width:160px;
+    height: 75px;
+    float: left;
+  }
+  .header .link
+  {
+    float: none;
+    margin-top: 15px;
+  }
+  .header .link a
+  {
+    width: 250px;
+    height: 40px;
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+  .main-slider .the-slider .slider-content
+  {
+    width: 300px;
+    right:0px;
+    top: 100px;
+    text-align: right;
+  }
+  .main-slider .the-slider .slider-content h1
+  {
+    font-size: 18px;
+  }
+  .main-slider .the-slider .slider-content p
+  {
+    font-size: 14px;
+  }
+  /*.main-slider*/
+  /*{*/
+  /*  height: 500px;*/
+  /*}*/
+  .main-slider .the-slider .owl-dots
+  {
+        top: -15px;
+  }
+  .up-bar p
+  {
+    display: none;
+  }
+  .up-bar .social-media
+  {
+    float: none;
+    text-align: center;
+  }
+  .blogs .the-blog img
+  {
+    height: 155px;
+  }
+  .blogs .the-blog
+  {
+    text-align:center;
+  }
+  .blogs .the-blog a
+  {
+    float: none;
+  }
+  .gallery-section .head p
+   {
+    font-size: 12px;
+    width: 90%;
+   }
+   .footer .main-menu ul li a
+   {
+     font-size: 10px;
+     margin-bottom: 10px;
+   }
+   .gallery-section
+   {
+     padding-bottom: 0px;
+   }
+   .gallery-item
+   {
+     height: 250px;
+   }
+   .order-now .the-form
+   {
+     width: 100%;
+   }
+   .order-now .preview p
+   {
+     font-size: 12px;
+     margin-bottom: 20px;
+   }
+   .main-slider .the-slider .slider-content p
+   {
+     line-height: 30px;
+     font-size: 12px;
+   }
+   .about-example
+   {
+     height: auto;
+   }
+   .appointment
+   {
+     margin-top: 15px;
+   }
+   .appointment p
+   {
+     width: 100%;
+     font-size: 12px;
+   }
+   .appointment .the-form
+   {
+     width: 100%;
+   }
+   .appointment .the-form form h6
+   {
+     line-height: 25px;
+     font-size: 12px;
+   }
+   .contact-us .the-form
+   {
+     width: 100%;
+   }
+   .important p
+   {
+     width: 90%;
+   }
+   .services .head p
+   {
+     width: 90%;
+   }
+   .one-serv .serv-details
+   {
+     width: 100%;
+   }
+    .order-now .preview
+    {
+        margin-top: 10px;
+    }
+    .order-now .the-vedio video
+    {
+        float: none;
+        width: 100%;
+    }
+    .pic-album .album-slider .pics img
+    {
+        width: 200px!important;
+        margin-left: 0px;
+        margin-top: 10px;
+
+    }
+    .pic-album .album-slider .owl-nav
+    {
+        width: 50%;
+        top: 110px;
+        font-size: 35px;
+        color: #99610e;
+    }
+    .consultation .info .content
+    {
+        border-left: none;
+    }
+    .consultation .info .content h2
+    {
+        font-size: 18px;
+    }
+    .consultation .content p
+    {
+        font-size: 16px;
+    }
+    .consultation .content p
+    {
+        font-size: 14px;
+    }
+    .consultation .content p span
+    {
+        font-size: 14px;
+    }
+    .consultation .info .repeat
+    {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .legal-publication .all-info li a
+    {
+        float: none;
+        margin-top: 10px;
+        display: block;
+    }
+
+}
+
+@media only screen and (max-width:450px) {
+    .vedios iframe {
+    width: 100%;
+    height: 200px;
+}
+
+.vedio-section iframe {
+    width: 100%;
+    height: 200px;
+}
+
+  .sidenav .closebtn
+  {
+    left:80px!important;
+  }
+  .main-slider .the-slider .slider-content
+  {
+    width: 100%;
+  }
+    .new-blogs ul li a
+    {
+        float: none;
+        display: block;
+        margin-top: 10px;
+    }
+    .pic-album .album-slider .pics img
+    {
+        width: auto!important;
+        height: 150px !important;
+    }
+
+
+
+}
